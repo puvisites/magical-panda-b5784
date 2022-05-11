@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Welcome to
+    title: 'Welcome to '
     subtitle: ''
     badge:
       label: This is the badge
