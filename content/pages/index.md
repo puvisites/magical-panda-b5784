@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: ''
-    colors: colors-a
+    colors: colors-h
     title: ACETECH TOOLS
     subtitle: ''
     badge:
