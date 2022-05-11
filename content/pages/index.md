@@ -137,7 +137,7 @@ sections:
         url: /images/1.jpg
         altText: Image one
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
+        url: /images/atlas1.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
