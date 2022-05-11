@@ -60,7 +60,6 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: BLUE POINT
         featuredImage:
           type: ImageBlock
           url: /images/Untitled design (10).png
