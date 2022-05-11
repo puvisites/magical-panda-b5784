@@ -60,14 +60,6 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        featuredImage:
-          type: ImageBlock
-          url: /images/Untitled design (10).png
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-      - type: FeaturedItem
         elementId: ''
         subtitle: ''
         featuredImage:
