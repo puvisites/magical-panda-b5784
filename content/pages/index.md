@@ -56,7 +56,7 @@ sections:
     colors: colors-h
     elementId: ''
     subtitle: >-
-      These are all excellent features that will provide exactly the things
+      These are all excellent products that will provide exactly the things
       you’re looking for.
     items:
       - type: FeaturedItem
