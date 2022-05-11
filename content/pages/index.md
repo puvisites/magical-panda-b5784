@@ -72,7 +72,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/1470118196_accessories.jpg
       altText: Hero image
     styles:
       self:
