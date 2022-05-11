@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "Vendor Login",
+                "label": "Customer Login",
                 "url": "/faq",
                 "altText": ""
             },
