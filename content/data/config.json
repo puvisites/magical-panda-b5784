@@ -63,7 +63,8 @@
             },
             "type": "ImageBlock",
             "url": "/images/logo.svg"
-        }
+        },
+        "title": "ACE TECH TOOLS"
     },
     "footer": {
         "colors": "colors-h",
