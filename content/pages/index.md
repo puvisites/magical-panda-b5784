@@ -94,7 +94,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
         subtitle: ''
         featuredImage:
           type: ImageBlock
