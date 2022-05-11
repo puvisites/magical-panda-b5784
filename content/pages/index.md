@@ -86,7 +86,7 @@ sections:
         subtitle: ''
         featuredImage:
           type: ImageBlock
-          url: /images/snap-on-2-logo-svg-vector.svg
+          url: /images/snap-on-2-logo-png-transparent3.png
           altText: Item image
         actions: []
         styles:
