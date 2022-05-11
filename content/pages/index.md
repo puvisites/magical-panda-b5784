@@ -18,7 +18,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
       altText: Hero image
     styles:
       self:
