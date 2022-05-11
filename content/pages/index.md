@@ -61,9 +61,6 @@ sections:
     items:
       - type: FeaturedItem
         title: BLUE POINT
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
         featuredImage:
           type: ImageBlock
           url: /images/Untitled design (9).png
