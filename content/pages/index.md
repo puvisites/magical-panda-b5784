@@ -53,7 +53,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-h
     elementId: ''
     subtitle: >-
       These are all excellent products that will provide exactly the things
