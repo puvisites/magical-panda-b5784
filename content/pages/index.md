@@ -26,11 +26,7 @@ sections:
 
 
       who are known for their quality product range.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/mastertoolsets.jpg
