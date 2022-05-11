@@ -26,7 +26,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/1470118196_accessories.jpg
+      url: /images/mastertoolsets.jpg
       altText: Hero image
     styles:
       self:
