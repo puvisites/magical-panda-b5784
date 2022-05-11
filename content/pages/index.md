@@ -138,7 +138,6 @@ sections:
         altText: Image one
       - type: ImageBlock
         url: /images/atlas1.jpg
-        altText: Image two
       - type: ImageBlock
         url: /images/6.jpg
       - type: ImageBlock
