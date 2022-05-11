@@ -131,7 +131,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Our Products
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
