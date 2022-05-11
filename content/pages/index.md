@@ -10,9 +10,7 @@ sections:
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae
+      inventore veritatis et quasi architecto beatae vitae dicta sunt ex
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     styles:
       self:
