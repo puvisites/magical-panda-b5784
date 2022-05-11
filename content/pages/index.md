@@ -104,7 +104,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    columns: 1
+    columns: 15
     enableHover: false
     styles:
       self:
