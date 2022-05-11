@@ -43,7 +43,8 @@
             },
             "type": "ImageBlock",
             "url": "/images/ACE TECH TOOLS.png"
-        }
+        },
+        "title": "ACE TECH TOOLS"
     },
     "footer": {
         "colors": "colors-h",
