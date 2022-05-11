@@ -63,7 +63,7 @@ sections:
         title: BLUE POINT
         featuredImage:
           type: ImageBlock
-          url: /images/Untitled design (9).png
+          url: /images/Untitled design (10).png
           altText: Item image
         styles:
           self:
