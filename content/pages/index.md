@@ -97,8 +97,7 @@ sections:
         subtitle: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/logo-1ba67e1c.svg
           altText: Item image
         actions: []
         styles:
