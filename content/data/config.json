@@ -26,14 +26,7 @@
                 "url": "/blog"
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Store",
-                "url": "/",
-                "style": "primary"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "full",
