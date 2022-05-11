@@ -26,7 +26,8 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": ""
+                "elementId": "",
+                "label": "Suppliers"
             }
         ],
         "secondaryLinks": [],
