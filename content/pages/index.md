@@ -146,7 +146,6 @@ sections:
         caption: Image three caption
       - type: ImageBlock
         url: /images/6.jpg
-        caption: Image four caption
     spacing: 1
     columns: 4
     aspectRatio: '16:9'
