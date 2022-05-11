@@ -134,7 +134,7 @@ sections:
     title: Our Products
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/1.jpg
         altText: Image one
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
