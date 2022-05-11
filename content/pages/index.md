@@ -19,6 +19,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
+      url: /images/careers.jpg
     styles:
       self:
         height: auto
