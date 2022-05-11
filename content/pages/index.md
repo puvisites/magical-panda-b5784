@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: Welcome to
     subtitle: ''
     badge:
       label: This is the badge
