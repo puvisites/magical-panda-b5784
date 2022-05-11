@@ -8,7 +8,7 @@ sections:
     title: Welcome to ACETECH TOOLS
     subtitle: ''
     badge:
-      label: This is the badge
+      label: WELCOME TO
       elementId: ''
       styles:
         self:
