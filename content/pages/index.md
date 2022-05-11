@@ -13,14 +13,12 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >+
-      Ace Tech Tools Pvt Ltd. started its journey in the year 2007, and since
-      then we have acknowledged the trends and practices of the industry and
-      also the needs of our customers. We Provide solutions to our customers for
-      their various applications with renowned and trusted tools. We are the
-      Business associate of SNAPON, GESIPA, SEALEY, FOAM PROGRAM, WILLIAMS,
-      SIOUX, BLUE-POINT, BAHCO, who are known for their quality product range.
+    text: >2
+       We Provide solutions to our customers for their various applications with renowned and trusted tools. 
 
+      We are the Business associate of SNAPON, GESIPA, SEALEY, FOAM PROGRAM,
+      WILLIAMS, SIOUX, BLUE-POINT, BAHCO, who are known for their quality
+      product range.
     actions:
       - type: Button
         label: Sign Up
