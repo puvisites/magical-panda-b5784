@@ -72,18 +72,6 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          type: ImageBlock
-          url: /images/smarter.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-      - type: FeaturedItem
         title: Focused
         text: >-
           Learn how top tech companies have learned working remote using our
