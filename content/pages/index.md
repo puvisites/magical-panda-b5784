@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/mastertoolsets.jpg
+      url: /images/Untitled design (8).png
       altText: Hero image
     styles:
       self:
