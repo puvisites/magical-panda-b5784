@@ -71,15 +71,6 @@ sections:
         styles:
           self:
             textAlign: center
-      - type: FeaturedItem
-        title: Focused
-        featuredImage:
-          type: ImageBlock
-          url: /images/focused.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
     actions: []
     columns: 3
     enableHover: false
