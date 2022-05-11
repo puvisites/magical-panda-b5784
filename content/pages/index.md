@@ -13,12 +13,19 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >2
-       We Provide solutions to our customers for their various applications with renowned and trusted tools. 
+    text: >
+      We Provide solutions to our customers for their various applications with
+      renowned and trusted tools.
 
-      We are the Business associate of SNAPON, GESIPA, SEALEY, FOAM PROGRAM,
-      WILLIAMS, SIOUX, BLUE-POINT, BAHCO, who are known for their quality
-      product range.
+
+      We are the Business associate of 
+
+
+      **SNAPON, GESIPA, SEALEY, FOAM PROGRAM, WILLIAMS, SIOUX, BLUE-POINT,
+      BAHCO**
+
+
+      who are known for their quality product range.
     actions:
       - type: Button
         label: Sign Up
