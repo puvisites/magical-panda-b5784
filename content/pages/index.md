@@ -66,7 +66,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/Untitled design (9).png
           altText: Item image
         styles:
           self:
