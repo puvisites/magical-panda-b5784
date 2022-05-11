@@ -37,11 +37,7 @@ sections:
     elementId: ''
     colors: colors-a
     subtitle: ''
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.png
