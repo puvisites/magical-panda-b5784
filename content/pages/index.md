@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: 'Welcome to '
+    title: Welcome to ACETECH TOOLS
     subtitle: ''
     badge:
       label: This is the badge
