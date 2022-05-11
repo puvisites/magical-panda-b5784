@@ -21,7 +21,7 @@
             },
             {
                 "type": "Link",
-                "label": "Vendor",
+                "label": "Vendor Login",
                 "url": "/faq",
                 "altText": ""
             },
