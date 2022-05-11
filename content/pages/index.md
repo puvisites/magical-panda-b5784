@@ -104,4 +104,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    title: Our Brands
 ---
