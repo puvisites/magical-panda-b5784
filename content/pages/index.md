@@ -26,7 +26,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/1470118196_accessories.jpg
       altText: Hero image
     styles:
       self:
