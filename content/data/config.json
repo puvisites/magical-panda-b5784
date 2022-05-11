@@ -5,7 +5,7 @@
         "headerVariant": "variant-b",
         "primaryColors": "colors-c",
         "secondaryColors": "colors-h",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
