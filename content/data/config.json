@@ -29,7 +29,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Customer ",
+                "label": "Store",
                 "url": "/",
                 "style": "primary"
             }
