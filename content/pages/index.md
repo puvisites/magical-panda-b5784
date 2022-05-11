@@ -143,7 +143,6 @@ sections:
       - type: ImageBlock
         url: /images/6.jpg
         altText: Image three
-        caption: Image three caption
       - type: ImageBlock
         url: /images/6.jpg
     spacing: 1
