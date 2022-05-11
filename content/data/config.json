@@ -35,7 +35,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Customer L",
+                "label": "Customer ",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
