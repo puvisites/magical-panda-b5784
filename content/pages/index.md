@@ -7,12 +7,6 @@ sections:
     colors: colors-h
     title: Love where you work
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     actions:
       - type: Button
         label: Sign Up
