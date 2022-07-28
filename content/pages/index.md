@@ -172,6 +172,7 @@ sections:
           options:
             - New York
             - San Francisco
+            - lorem-ipsum
           isRequired: false
           width: full
       submitLabel: Send Message
